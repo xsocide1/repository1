@@ -1,4 +1,6 @@
 discord
-discord.py[voice]
+discord.py[voice] == 1.2.4
 gtts
 PyGithub
+gspread
+oauth2client
